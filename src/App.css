@@ -1,0 +1,41 @@
+:root {
+  background-color: black;
+}
+
+text {
+  text-align: center;
+}
+
+.Title {
+  color: #fff;
+  margin-top: 120px;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.vpnswitch {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.Subtitle {
+  font-style: italic;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.Description {
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.85);
+  margin: 15rpx;
+}
+
+.Hint {
+  font-size: 12px;
+  margin: 5px;
+  color: rgba(255, 255, 255, 0.65);
+}
