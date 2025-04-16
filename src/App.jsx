@@ -7,7 +7,7 @@ export function App() {
   return (
     <view>
         <text className='Title'>RibbitVPN</text>
-        <text className='vpnbutton'>On</text>
+        <view className='vpnbutton'></view>
     </view>
   )
 }
