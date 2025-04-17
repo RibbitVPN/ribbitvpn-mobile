@@ -35,3 +35,8 @@ text {
   border-radius: 50%;
   position: relative;
 }
+
+.vpnstatustext {
+  margin-top: 35%;
+  font-size: 64px;
+}
