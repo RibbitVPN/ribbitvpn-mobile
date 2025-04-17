@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useState } from '@lynx-js/react'
 
 import './App.css'
-import ribbitlogo from './assets/ribbitlogo.png'
+import bg from './assets/bg.jpg'
 
 export function App() {
   return (
